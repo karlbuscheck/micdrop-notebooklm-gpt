@@ -2,7 +2,7 @@
 
 Meet **MicDrop** -- a mini NotebookLM that turns your short text documents into intuitive, conversational podcasts.
 
-Inspired by Google's cutting-edge AI tool and powered by not one but two GPT models, MicDrop is a proof-of-concept project that aims to take information-rich documents and make them easy to understand.
+Inspired by Google's cutting-edge AI tool and powered by not one but two GPT models, MicDrop is a **proof-of-concept, ambitious prototype** that aims to take information-rich documents and make them easy to understand.
 
 To accomplish this text-generation task -- and ultimately transform these scripts into MicDrop episodes -- we will begin by fine-tuning `distilgpt2`, the streamlined version of GPT-2, which is smaller and faster but still effective. To learn more about this large language model, check out the official model card on [Hugging Face](https://huggingface.co/distilbert/distilgpt2).
 
