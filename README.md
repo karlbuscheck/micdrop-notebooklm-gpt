@@ -34,6 +34,7 @@ Before we *record* our first episode, here's a roadmap of what is to come:
 - Fine-tune the model using the article-podcast script dataset
 - Test the fine-tuned model's podcast script-writing skills
 - Transform the scripts into MicDrop episodes
+- The next step
 
 ## Tools & Libraries Used
 
