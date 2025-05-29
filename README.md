@@ -50,4 +50,4 @@ Before we *record* our first episode, here's a roadmap of what is to come:
 
 ## Acknowledgements
 
-A big thanks to Michele Samorani, Associate Professor in the Department of Information Systems & Analytics at Santa Clara University. A notebook I was working on in his NLP course at the Leavey School of Business helped bring MicDrop to life.
+A big thanks to Michele Samorani, Associate Professor in the Department of Information Systems & Analytics at Santa Clara University. My work in his NLP course at the Leavey School of Business was what sparked the idea to build MicDrop.
