@@ -1,4 +1,4 @@
-# MicDrop -- a A Mini NotebookLM Powered by GPT
+# MicDrop -- A Mini NotebookLM Powered by GPT
 
 Meet **MicDrop** -- a mini NotebookLM that turns your short text documents into intuitive, conversational podcasts.
 
@@ -17,6 +17,10 @@ To do so, we will utilize a *teacher* LLM -- specifically GPT-4o -- to generate 
 Finally, we will bring these scripts to life with a text-to-speech tool.
 
 Ok. So. Stay tuned.
+
+## View the full notebook right here:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/177J6947KLG3UtF3ZdulVNKG8FaHvZQYS?usp=sharing)
 
 ## The Pipeline
 
