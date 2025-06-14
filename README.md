@@ -50,7 +50,7 @@ Before we *record* our first episode, here's a roadmap of what is to come:
 
 - **Google Colab** — for free GPU access and seamless integration with Drive  
 - **Python 3.11.12** — base language for all modeling and data wrangling   
-- **transformers** — [Hugging Face Transformers](https://huggingface.co/docs/transformers/index) library for working with `distilgpt2` and custom fine-tuning.
+- **transformers** — [Hugging Face Transformers](https://huggingface.co/docs/transformers/index) library for working with `distilgpt2` and custom fine-tuning
 - **torch** — PyTorch backend powering the fine-tuning and inference  
 - **curl** — to download the custom training script from the course server    
 - **subprocess** — to manage training script execution with more readable output  
