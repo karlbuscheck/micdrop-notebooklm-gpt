@@ -20,7 +20,7 @@ Inspired by Google's cutting-edge AI tool and powered by not one but two GPT mod
 
 To accomplish this text-generation task -- and ultimately transform these scripts into MicDrop episodes -- we will begin by fine-tuning `distilgpt2`, the streamlined version of GPT-2, which is smaller and faster but still effective. To learn more about this large language model check out the official model card on [Hugging Face](https://huggingface.co/distilgpt2).
 
-Our `distilgpt2` model will be fine-tuned on an initial dataset consisting of 200 pairings of articles and corresponding podcast scripts. Each of articles is 250-300 words and each of the scripts -- the foundation for our bite-sized episodes -- are 450-600 words.
+Our `distilgpt2` model will be fine-tuned on an initial dataset consisting of 200 pairings of articles and corresponding podcast scripts. Each of the articles is 250-300 words and each of the scripts -- the foundation for our bite-sized episodes -- is 450-600 words.
 
 But you might be wondering, where will this dataset come from?
 
